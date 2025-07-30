@@ -41,7 +41,7 @@ html_context = {
     "github_user": "aio25-friends",  # ✏️ Your GitHub username
     "github_repo": "aio-growth-hub",  # ✏️ Your repository name
     "github_version": "main",  # Branch
-    "doc_path": "source",  # Folder where your .rst files are
+    "doc_path": "docs/source",  # Folder where your .rst files are
 }
 
 templates_path = ['_templates']
