@@ -1,0 +1,10 @@
+# Sphinx build
+docs/build/
+AIO2025_Share_Value_Together.egg-info/
+
+# Virtual environments
+.venv/
+
+# ReStructuredText temporary files
+*.doctree
+*.log

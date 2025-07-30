@@ -1,0 +1,15 @@
+sphinx>=7.0
+nbsphinx
+pyvista
+panel
+vtk
+sphinx-gallery
+jupyter
+matplotlib
+rst2pdf
+trame
+svgwrite
+drawsvg
+svg.py
+myst-parser
+furo

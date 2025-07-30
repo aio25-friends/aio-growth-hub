@@ -1,0 +1,37 @@
+/* Make headers bold and blue */
+h1, h2, h3 {
+    color: #007acc;
+    font-weight: bold;
+}
+
+h1, h2, body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Style only the site title h1 */
+section#aio2025-knowledge-sharing-hub > h1 {
+    font-size: 1.8rem; /* or try 40px */
+}
+
+.article-header-buttons .btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  background: transparent;
+  color: var(--color-text-primary);
+  border: none;
+  cursor: pointer;
+}
+
+.article-header-buttons .btn__icon-container {
+  margin-right: 0.25rem;
+}
+
+dl.field-list.simple {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.5rem 1rem;
+  align-items: start;
+  line-height: normal;
+}

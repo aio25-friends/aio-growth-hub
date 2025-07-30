@@ -1,0 +1,32 @@
+ [project]
+name = "AIO2025-Share-Value-Together"
+version = "0.1.0"
+description = "Documentation site for AI researchers and data scientists from AI Vietnam"
+authors = [
+    { name = "AIO Friends Group", email = "aiofriendsgroup@gmail.com" }
+]
+
+requires-python = ">=3.8"
+
+[project.optional-dependencies]
+docs = [
+    "sphinx>=7.0",
+    "nbsphinx",
+    "pyvista",
+    "panel",
+    "vtk",
+    "sphinx-gallery",
+    "jupyter",
+    "matplotlib",
+    "rst2pdf",
+    "trame",
+    "svgwrite",
+    "drawsvg",
+    "svg.py",
+    "myst-parser",
+    "furo",
+]
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
