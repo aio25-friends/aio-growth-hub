@@ -8,3 +8,27 @@ AIO2025_Share_Value_Together.egg-info/
 # ReStructuredText temporary files
 *.doctree
 *.log
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+
+# Test output
+*.pytest_cache/
