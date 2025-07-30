@@ -20,7 +20,7 @@ print("TEMPLATES PATHS LOADED:", sys.path)
 # print("FULL FILE EXISTS:", os.path.exists("_templates/page.html"))
 
 import jinja2
-jinja2.debug = True
+jinja2.debug = False
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -38,8 +38,8 @@ extensions = [
 
 html_context = {
     "display_github": True,
-    "github_user": "ai-thutam89",  # ✏️ Your GitHub username
-    "github_repo": "ai-learning-journey",  # ✏️ Your repository name
+    "github_user": "aio25-friends",  # ✏️ Your GitHub username
+    "github_repo": "aio-growth-hub",  # ✏️ Your repository name
     "github_version": "main",  # Branch
     "doc_path": "source",  # Folder where your .rst files are
 }
@@ -69,8 +69,7 @@ html_js_files = ['custom.js']
 html_theme_options = {
     "sidebar_hide_name": False,         # Show project name/logo in sidebar
     "navigation_with_keys": True,       # Enable keyboard navigation
-
-    "source_repository": "https://github.com/pradyunsg/furo/",
+    "source_repository": "https://github.com/aio25-friends/aio-growth-hub/",
     "source_branch": "main",
     "source_directory": "docs/source/",
 }
