@@ -34,8 +34,8 @@ documentation for details.
    :caption: AIO25-RESEARCH
 
    AIO25-RESEARCH/AIVNRG25/index
-   AIO25-RESEARCH/Methodology/index
-   AIO25-RESEARCH/Papers/index
+   AIO25-RESEARCH/Research/index
+   AIO25-RESEARCH/Project/index
 
 .. toctree::
    :maxdepth: 2

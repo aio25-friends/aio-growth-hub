@@ -1,9 +1,9 @@
 .. AIO2025-Share-Value-Together 
 .. AIO25-RESEARCH
-.. Projects
+.. Research
 
-Methodology
-+++++++++++
+Research
+++++++++
 
 .. toctree::
    :maxdepth: 2
