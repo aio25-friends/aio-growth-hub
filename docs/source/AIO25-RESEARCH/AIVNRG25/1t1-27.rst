@@ -1,0 +1,65 @@
+.. AIO2025-Share-Value-Together 
+.. AIO25-LEARNING
+.. Module-01
+.. M1-Extras
+.. 1T1-27
+
+2401.13601v5-note
++++++++++++++++++
+Title : MM-LLMs - Recent Advances in MultiModal Large Language Models
+
+- Authors :  Duzhen Zhang1* , Yahan Yu2* , Chenxing Li1 , Jiahua Dong3† , Dan Su1, Chenhui Chu2† and Dong Yu
+- Tencent AI Lab ; Kyoto University ; Shenyang Institute of Automation, Chinese Academy of Science
+- scoutzhang@tencent.com, yahan@nlp.ist.i.kyoto-u.ac.jp
+- Source : https://arxiv.org/abs/2401.13601
+
+Abstract (Main-tasks)
+~~~~~~~~~~~~~~~~~~~~~
+
+1. Introduction
+~~~~~~~~~~~~~~~
+
+2. Model Architecture
+~~~~~~~~~~~~~~~~~~~~~
+
+3. Training Pipeline
+~~~~~~~~~~~~~~~~~~~~
+
+4. SOTA MM-LLMs
+~~~~~~~~~~~~~~~~
+
+5. Benchmarks and Performance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+6. Future Directions
+~~~~~~~~~~~~~~~~~~~~
+
+7. Conclusion
+~~~~~~~~~~~~~
+
+#Social Impact
+^^^^^^^^^^^^^^
+
+#Acknowledgements
+^^^^^^^^^^^^^^^^^
+
+#Limitations
+^^^^^^^^^^^^
+
+#References
+^^^^^^^^^^^
+
+A Related Surveys
+^^^^^^^^^^^^^^^^^
+
+B Mainstream PEFT Methods
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+C Commonly Used LLMs
+^^^^^^^^^^^^^^^^^^^^
+
+D SOTA MM-LLMs (continued)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+E VL Benchmarks
+^^^^^^^^^^^^^^^
