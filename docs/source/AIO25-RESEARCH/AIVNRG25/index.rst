@@ -16,4 +16,4 @@ AIVNRG25 - AI Vietnam Research Group 2025 is the additional advanced module for 
 
    introduction
    overview
-   1t1-27
+   2401.13601v5-note

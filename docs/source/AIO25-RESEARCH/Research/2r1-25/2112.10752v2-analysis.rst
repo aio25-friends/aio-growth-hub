@@ -1,0 +1,30 @@
+.. AIO2025-Share-Value-Together 
+.. AIO25-RESEARCH
+.. Research
+.. 2R1-25
+
+2112.10752v2-analysis
++++++++++++++++++++++
+Generative AI : High-Resolution Image Synthesis with Latent Diffusion Models
+
+- Authors :  Robin Rombach1 ; Andreas Blattmann ; Dominik Lorenz ; Patrick Esser ; Bj¨orn Ommer
+- 1Ludwig Maximilian University of Munich & IWR, Heidelberg University, Germany ; Runway ML
+- GitHub : https://github.com/CompVis/latent-diffusion
+- Source : https://arxiv.org/abs/2112.10752
+
+Guideline : `29. HƯỚNG DẪN LÀM BÀI TẬP PHẦN THỰC HIỆN NGHIÊN CỨU <https://tamnguyen1213519.notion.site/AIVNRG25-29-H-NG-D-N-L-M-B-I-T-P-PH-N-TH-C-HI-N-NGHI-N-C-U-2524f5da2dbf80ffbc39dd17f07d13cb>`_.
+
+#assignment-1
+^^^^^^^^^^^^^
+
+#assignment-2
+^^^^^^^^^^^^^
+
+#assignment-3
+^^^^^^^^^^^^^
+
+#assignment-4
+^^^^^^^^^^^^^
+
+#assignment-5
+^^^^^^^^^^^^^

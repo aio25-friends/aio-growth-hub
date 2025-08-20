@@ -1,7 +1,6 @@
 .. AIO2025-Share-Value-Together 
-.. AIO25-LEARNING
-.. Module-01
-.. M1-Extras
+.. AIO25-RESEARCH
+.. AIVNRG25
 .. 1T1-27
 
 2401.13601v5-note
