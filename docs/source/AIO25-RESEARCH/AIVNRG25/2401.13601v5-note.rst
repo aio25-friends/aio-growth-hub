@@ -14,7 +14,7 @@ Title : MM-LLMs - Recent Advances in MultiModal Large Language Models
 
 Abstract (Main-tasks)
 ~~~~~~~~~~~~~~~~~~~~~
-Update again!
+A new update!
 
 1. Introduction
 ~~~~~~~~~~~~~~~
