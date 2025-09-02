@@ -10,6 +10,7 @@
 - Homepage : https://huggingface.co/docs/diffusers/index
 
 Guideline : `AIVNRG25 21. HƯỚNG DẪN TÌM HIỂU CÁCH THỰC HIỆN DỰ ÁN TỪ CÁC DỰ ÁN CÓ SẴN <https://tamnguyen1213519.notion.site/AIVNRG25-21-H-NG-D-N-T-M-HI-U-C-CH-TH-C-HI-N-D-N-T-C-C-D-N-C-S-N-2514f5da2dbf80d8837cefbae56cee89>`_.
+Update this page!
 
 1. Tổng quan về dự án
 ~~~~~~~~~~~~~~~~~~~~~
