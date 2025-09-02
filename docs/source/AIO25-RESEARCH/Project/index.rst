@@ -53,3 +53,9 @@ Project
      - Reference
      - - Project grouping - set-1 `project-grouping-1 <https://docs.google.com/spreadsheets/d/1a7m2EQqGPNnWcw8U4180Fix8ePrLCDvo/edit?fbclid=IwY2xjawMDfxZleHRuA2FlbQIxMABicmlkETFLU2lHMFlnZDRlRkRuelFHAR7-bo54Gdh3nsi-2BnqKkTRIdALe1Dhq5IMYsWLiUyqCz2w169sOA9myjZpvw_aem_PT_-Fds_zlStaPE-KSTygA&gid=1126722485#gid=1126722485>`_.
        - Danh sách thành viên, hổ trợ viên tham gia đợt 1 - hoạt động 2 hướng dự án
+
+   * - 8
+     - Submission
+     - - Hướng dẫn nộp bài `submission-guide <https://tamnguyen1213519.notion.site/AIVNRG25-34-H-NG-D-N-N-P-B-I-V-I-N-FORM-N-P-B-I-25d4f5da2dbf8087962ef18430e6ac65>`_.
+       - Drive link `project-set1-drive <https://drive.google.com/drive/folders/1zN26Q8IHDHdpB7nYrZHCkr4aSaNcik6_>`_.
+       - Google form `project-set1-form <https://docs.google.com/forms/d/e/1FAIpQLSfNVAAM7n9l__Ibh5Ha6jLwGw0xKmNyIxWaRWM0msj0xUejiQ/viewform>`_.

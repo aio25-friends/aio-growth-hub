@@ -48,3 +48,9 @@ Overview
      - Reference
      - - Overview grouping - set-1 `overview-grouping-1 <https://docs.google.com/spreadsheets/d/1Mi0Ld2kmA_ozN9JKPVk65gwfqP4TBU6A/edit?fbclid=IwY2xjawMOTwZleHRuA2FlbQIxMABicmlkETFzTHFJUzRDUEpnY0hiUEZpAR7BlxqKHdI_QmH7PIJAnFDjTA5Xbra2JZ3_v5AZMi1zchCrKcxsIodvPU3gdg_aem_ObERa2r43wfrFRpUtyS-uQ&gid=425640900#gid=425640900>`_.
        - Danh sách thành viên, hổ trợ viên tham gia đợt 1 - hoạt động 1 - lượt 1
+
+   * - 8
+     - Submission
+     - - Hướng dẫn nộp bài `submission-guide <https://tamnguyen1213519.notion.site/AIVNRG25-34-H-NG-D-N-N-P-B-I-V-I-N-FORM-N-P-B-I-25d4f5da2dbf8087962ef18430e6ac65>`_.
+       - Drive link `overview-set1-drive <https://drive.google.com/drive/folders/1zN26Q8IHDHdpB7nYrZHCkr4aSaNcik6_>`_.
+       - Google form `overview-set1-form <https://docs.google.com/forms/d/e/1FAIpQLSfNVAAM7n9l__Ibh5Ha6jLwGw0xKmNyIxWaRWM0msj0xUejiQ/viewform>`_.
