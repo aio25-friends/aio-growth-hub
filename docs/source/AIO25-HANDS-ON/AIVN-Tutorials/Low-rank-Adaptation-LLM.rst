@@ -20,27 +20,49 @@ Prerequisites
 2. Installation
 ~~~~~~~~~~~~~~~
 
-#. Install Libraries
+#. .. admonition:: Step 2.1 — Install Libraries
 
-#. Hyper-parameters
+      Explain how to install the required libraries.
 
-#. Load Backbone Model
+#. .. admonition:: Step 2.2 — Hyper-parameters
 
-#. Apply Lora Adapter
+      Describe tuning options and their ranges here.
 
-#. Load Training Data
+#. .. admonition:: Step 2.3 — Load Backbone Model
 
-#. Create Data Collator
+      Code snippet or explanation.
 
-#. Metrics
+#. .. admonition:: Step 2.4 — Apply LoRA Adapter
 
-#. Training Model
+      How LoRA adapters are integrated.
 
-#. Inference
+#. .. admonition:: Step 2.5 — Load Training Data
 
-#. Evaluation
+      Dataset preparation steps.
 
-#. LoRA Rank
+#. .. admonition:: Step 2.6 — Create Data Collator
+
+      Notes about batching.
+
+#. .. admonition:: Step 2.7 — Metrics
+
+      Accuracy, loss, etc.
+
+#. .. admonition:: Step 2.8 — Training Model
+
+      Walkthrough of training loop.
+
+#. .. admonition:: Step 2.9 — Inference
+
+      Running inference after training.
+
+#. .. admonition:: Step 2.10 — Evaluation
+
+      Model performance testing.
+
+#. .. admonition:: Step 2.11 — LoRA Rank
+
+      Explain rank settings.
 
 3. Conclusion
 ~~~~~~~~~~~~~
