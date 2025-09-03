@@ -36,6 +36,12 @@ Prerequisites
 3. Conclusion
 ~~~~~~~~~~~~~
 
+4. Quizz
+~~~~~~~~
+
+5. References
+~~~~~~~~~~~~~
+
 #Decision Tree
 ^^^^^^^^^^^^^^
 
