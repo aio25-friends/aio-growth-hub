@@ -10,6 +10,15 @@ Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
 
+.. toctree::
+   :maxdepth: 2
+   :caption: AIO25-HANDS-ON
+
+   AIO25-HANDS-ON/Hugging-Face/index
+   AIO25-HANDS-ON/Scikit-Learn/index
+   AIO25-HANDS-ON/Kaggle/index
+   AIO25-HANDS-ON/Linked-In-Learning/index
+   AIO25-HANDS-ON/AIVN-Tutorials/index
 
 .. toctree::
    :maxdepth: 2
