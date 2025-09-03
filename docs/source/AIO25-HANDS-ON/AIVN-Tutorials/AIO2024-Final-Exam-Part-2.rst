@@ -23,11 +23,11 @@ Preparation
 3. Transformer
 ~~~~~~~~~~~~~~
 
-4. RNN
-~~~~~~
+4. Recurrent Neural Network
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-5. LSTM
-~~~~~~~
+5. Long Short-Term Memory 
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #Exam Study
 ^^^^^^^^^^^

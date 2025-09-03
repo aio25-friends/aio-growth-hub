@@ -23,16 +23,19 @@ Preparation
 3. POS Tagging
 ~~~~~~~~~~~~~~
 
-4. Question Answering
+4. Name Entity Recognition
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5. Question Answering
 ~~~~~~~~~~~~~~~~~~~~~
 
-5. Text Generation
+6. Machine Translation
+~~~~~~~~~~~~~~~~~~~~~~
+
+7. Text Generation
 ~~~~~~~~~~~~~~~~~~
 
-6. Text Generation
-~~~~~~~~~~~~~~~~~~
-
-7. Unet
+7. UNet
 ~~~~~~~
 
 #Exam Study

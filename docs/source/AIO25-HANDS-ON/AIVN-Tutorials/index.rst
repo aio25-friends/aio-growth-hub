@@ -14,6 +14,8 @@ AIVNRG25 - AI Vietnam Research Group 2025 is the additional advanced module for 
 .. toctree::
    :maxdepth: 2
 
+   random-forest
+   linear-regression
    Low-rank-Adaptation-LLM
    AIO2024-Final-Exam-Part-1
    AIO2024-Final-Exam-Part-2

@@ -3,9 +3,9 @@
 .. AIVN-Tutorials
 .. AIO2024-Final-Exam-Part-4
 
-AIO2024 Final Exam Part-4 : GenAI và LLMs
-+++++++++++++++++++++++++++++++++++++++++
-AI Vietnam : `Bài thi cuối khóa AIO2024 - Phần 4 (GenAI và LLMs) <https://aivietnam.edu.vn/blog/genai-llms-exam>`_
+AIO2024 Final Exam Part-4 : GenAI & LLMs
+++++++++++++++++++++++++++++++++++++++++
+AI Vietnam : `Bài thi cuối khóa AIO2024 - Phần 4 (GenAI & LLMs) <https://aivietnam.edu.vn/blog/genai-llms-exam>`_
 
 - Authors :  
 - Keywords : 

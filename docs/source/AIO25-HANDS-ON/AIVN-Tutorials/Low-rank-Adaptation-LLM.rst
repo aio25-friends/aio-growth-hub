@@ -3,8 +3,8 @@
 .. AIVN-Tutorials
 .. Low-rank-Adaptation-LLM
 
-Tutorial: Low-rank Adaptation Techniques in Fine-tuning a LLM
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Tutorial : Low-rank Adaptation Techniques in Fine-tuning a LLM
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 AI Vietnam : `https://aivietnam.edu.vn/blog/finetune-lora-llms#low-rank-adaptation <https://aivietnam.edu.vn/blog/finetune-lora-llms#low-rank-adaptation>`_
 
 - Authors :  
@@ -19,17 +19,28 @@ Prerequisites
 
 2. Installation
 ~~~~~~~~~~~~~~~
-  2.1. Install Libraries
-  2.2. Hyper-parameters
-  2.3. Load Backbone Model
-  2.4. Apply Lora Adapter
-  2.5. Load Training Data
-  2.6. Create Data Collator
-  2.7. Metrics
-  2.8. Training Model
-  2.9. Inference
-  2.10. Evaluation
-  2.11. LoRA Rank
+
+#. Install Libraries
+
+#. Hyper-parameters
+
+#. Load Backbone Model
+
+#. Apply Lora Adapter
+
+#. Load Training Data
+
+#. Create Data Collator
+
+#. Metrics
+
+#. Training Model
+
+#. Inference
+
+#. Evaluation
+
+#. LoRA Rank
 
 3. Conclusion
 ~~~~~~~~~~~~~
