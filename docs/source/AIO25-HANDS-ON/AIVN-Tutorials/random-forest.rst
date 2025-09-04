@@ -41,6 +41,8 @@ Prerequisites
 
 5. References
 ~~~~~~~~~~~~~
++ LinkedIn Learning : `Applied Machine Learning: Ensemble Learning <https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/>`_
++ Colad Drive : `Ensemble Learning <https://drive.google.com/drive/folders/18rhu5aJH1E14tcShaoRIE2dKSxHmX019?usp=sharing/>`_
 
 #Decision Tree
 ^^^^^^^^^^^^^^
