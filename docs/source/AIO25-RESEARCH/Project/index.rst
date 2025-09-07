@@ -57,5 +57,5 @@ Project
    * - 8
      - Submission
      - - Hướng dẫn nộp bài `submission-guide <https://tamnguyen1213519.notion.site/AIVNRG25-34-H-NG-D-N-N-P-B-I-V-I-N-FORM-N-P-B-I-25d4f5da2dbf8087962ef18430e6ac65>`_.
-       - Drive link `project-set1-drive <https://drive.google.com/drive/folders/1zN26Q8IHDHdpB7nYrZHCkr4aSaNcik6_>`_.
-       - Google form `project-set1-form <https://docs.google.com/forms/d/e/1FAIpQLSfNVAAM7n9l__Ibh5Ha6jLwGw0xKmNyIxWaRWM0msj0xUejiQ/viewform>`_.
+       - Drive link `project-set1-drive <https://drive.google.com/drive/folders/193zma2LIzPlRURlyLYzWZXiUAuRJT09B>`_.
+       - Google form `project-set1-form <https://docs.google.com/forms/d/e/1FAIpQLSdJYnflVkjWPf94ya089pSqm2DMljYpT0D7jMMkx9lB6Q08eg/viewform>`_.

@@ -5,7 +5,7 @@
 
 Tutorial : Low-rank Adaptation Techniques in Fine-tuning a LLM
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-AI Vietnam : `https://aivietnam.edu.vn/blog/finetune-lora-llms#low-rank-adaptation <https://aivietnam.edu.vn/blog/finetune-lora-llms#low-rank-adaptation>`_
+AI Vietnam : `https://aivietnam.edu.vn/blog/finetune-lora-llms <https://aivietnam.edu.vn/blog/finetune-lora-llms>`_
 
 - Authors :  
 - Keywords : 
